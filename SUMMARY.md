@@ -11,4 +11,4 @@
 ## Mechanism
 
 * [MAGI Econimic System](mechanism/magi-econimic-system.md)
-* [MAGI to AGI](mechanism/magi-to-agi.md)
+* [RL, MAGI and AGI](mechanism/rl-magi-and-agi.md)
