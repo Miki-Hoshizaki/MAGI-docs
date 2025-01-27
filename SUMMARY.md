@@ -10,4 +10,6 @@
 
 ***
 
-* [MAGI Econimic System](magi-econimic-system.md)
+* [Mechanism](mechanism/README.md)
+  * [MAGI Econimic System](mechanism/magi-econimic-system.md)
+  * [MAGI to AGI](mechanism/magi-to-agi.md)
